@@ -1,4 +1,4 @@
-# FRB-statistics
+# FRB-Statistics
 
 This is an outcome of my Summer Internship at Raman Research Institute (RRI), working with Prof. Mayuri Rao. I have performed a feasibility study to ascertain Fast Radio Burst (FRB) detection by the APSERa instrument. 
 APSERa (Array of Spectrometers for the Epoch of Recombination) is an instrument currently being developed at RRI aimed at detecting recombination lines from the early universe (epoch of recombination, z ≈ 1100). The instrument's target frequency of 2-6 GHz overlaps with FRB emission bands. This, along with observed brightness from FRB signals being greater than APSERa's noise level, provides a reasonable chance that the cosmological instrument could also detect such bright radio transients.     
